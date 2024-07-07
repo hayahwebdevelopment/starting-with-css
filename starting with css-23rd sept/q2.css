@@ -1,0 +1,15 @@
+.card {
+    background-color: whitesmoke;
+    border: 2px double black;
+}
+.card__header {
+     background-color: bisque;
+}
+.card__footer {
+    background-color: beige;
+}
+.card__body {
+    border: 1px dotted black;
+    background-color: aqua;
+   
+}
